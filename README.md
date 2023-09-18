@@ -1,4 +1,5 @@
 # Qr-Code-Generator
 
-#Introduction
+Introduction
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This project aims to be clearest, best Qr Code Generator in Text as Well as URL.
