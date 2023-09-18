@@ -2,4 +2,4 @@
 
 Introduction
 --------------
-This project aims to be clearest, best Qr Code Generator in Text as Well as URL.
+This project aims to be clearest, best Qr Code Generator in Text as well as in URL.
